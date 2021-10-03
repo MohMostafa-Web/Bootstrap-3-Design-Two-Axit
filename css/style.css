@@ -151,6 +151,7 @@ i.fa-rss:hover {
 @media (max-width: 991px) {
   .header form {
     margin: 30px auto 80px;
+    max-width: 100%;
   }
 }
 .header form h2 {
